@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "sudoku", "sudoku\sudoku.vcxproj", "{393FB96A-3BD7-4287-A6E8-B4D6DF54B04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{393FB96A-3BD7-4287-A6E8-B4D6DF54B04A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{393FB96A-3BD7-4287-A6E8-B4D6DF54B04A}.Debug|Win32.Build.0 = Debug|Win32
+		{393FB96A-3BD7-4287-A6E8-B4D6DF54B04A}.Release|Win32.ActiveCfg = Release|Win32
+		{393FB96A-3BD7-4287-A6E8-B4D6DF54B04A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
